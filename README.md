@@ -6,5 +6,8 @@
 
 ### 카테고리
 
-#### Python
+#### Javascript
+
+[프로토타입](#prototype)
  
+#### 
