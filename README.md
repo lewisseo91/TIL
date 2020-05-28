@@ -8,4 +8,3 @@
 
 #### Python
  
- [Web Scrapping](https://repl.it/@lewisseo91/navigatingpractice)
